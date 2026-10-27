@@ -499,7 +499,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 <div align="center">
-
-[Website](https://lovable.dev) · [Twitter](https://twitter.com/lovaboratories) · [Discord](https://discord.gg/lovable)
-
 </div>
